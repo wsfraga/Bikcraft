@@ -49,8 +49,8 @@ O objetivo deste projeto foi **praticar e consolidar conceitos fundamentais de F
 
 **Wesley da Silva Rodrigues Fraga**
 
-- GitHub: https://github.com/SEU-USUARIO
-- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
+- GitHub: https://github.com/wsfraga
+- LinkedIn: [www.linkedin.com/in/wesley-fraga-188384392](https://www.linkedin.com/in/wesley-fraga-188384392/)
 
 ---
 
